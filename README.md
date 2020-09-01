@@ -1,4 +1,4 @@
-I made this tool so I can move pocket bookmarks between accounts, but I guess you could also use it to important pocket bookmarks into your browser
+I made this tool so I can move pocket bookmarks between accounts, but I guess you could also use it to import pocket bookmarks into your browser
 
 Pocket supports importing from:
 * Browsers that output in a Netscape Compatible Format
