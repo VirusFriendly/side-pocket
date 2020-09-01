@@ -10,8 +10,12 @@ Pocket supports importing from:
 
 But NOT Pocket
 
+# How to Use
 To export your pocket bookmarks go to:  https://getpocket.com/export
+
 Save the exported pocket bookmarks as "pocket.html"
+
 Then run `python side-pocket.py pocket.html > bookmarks.html`
+
 Go to https://getpocket.com/import/browser and upload bookmarks.html
 
